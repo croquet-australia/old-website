@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Croquet Australia: </title>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/CSS/ACA.css" rel="stylesheet" type="text/css" />
+
+<!--[if IE 7]><style type="text/css">.menu li {float:left;}</style><![endif]-->
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="../../../../Templates/engine1/style.css" media="screen" />
+	<script type="text/javascript" src="../../../../Templates/engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="100%" border="0">
+  <tr> 
+    <td width="150" valign="middle" align="center">
+    	<a href="http://www.croquet-australia.com.au/"><img src="/small_ACA_Pocket_Logo.jpg" width="93" height="70" /></a>
+    </td>
+	<td colspan="3" align="center" class="tdback"><h1>Photos: GC National Championships 2014 - Social Events</h1></td>
+  </tr>
+  <tr> 
+    <td valign="top"> 
+      <script type="text/javascript" src="/Templates/LH_Nav_Bar.js">  </script>
+	</td>
+    <td colspan="3" align="center" valign="top"><!-- #BeginEditable "Main%20Text%20Body" -->
+      <h3>Slideshow will pause on 'mouse-over'</h3>
+      
+
+
+
+<h3>More photos ffrom the GC Nationals 2014:</h3>
+<h3><a href="../index.html"target="_blank">The Gold Medal</a>,&nbsp; <a href="../M slide/index.html"target="_blank">Mens' Singles</a>, <a href="../Ws slide/index.html"target="_blank">Women's Singles</a></h3>
+    <!-- #EndEditable --></td>
+  </tr>
+
+  <script type="text/javascript" src="/Templates/Footer.js">  </script>
+
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4518381-2', 'croquet-australia.com.au');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>State Teams Presentation</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>stack_vertical</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/catalyst/</ImageTemplate>
+            <ImageTemplateName>Catalyst</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>true</Preloader>
+            <PublishFileName>I:/ACA/Events/2014/GC Nats/Social Events/Social Events.html</PublishFileName>
+            <PublishIndex>Social Events.html</PublishIndex>
+            <PublishPath>I:/ACA/Events/2014/GC Nats/Social Events</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>catalyst</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>72</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>96</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>Presentations/IMG_1169.JPG</url>
+                <title>Ready to open the Proceedings</title>
+                <description>Maree Skinner (Pres. Croquet SA) and Neil White (Pres Croquet Australia)</description>
+                <filesize>174369</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1188.JPG</url>
+                <title>Opening the Presentations</title>
+                <description> Neil White (Pres Croquet Australia) and Maree Skinner (Pres. Croquet SA)</description>
+                <filesize>206990</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1174.JPG</url>
+                <title>Team Tasmania</title>
+                <description>Patsy Paine (Captain)</description>
+                <filesize>143586</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1176.JPG</url>
+                <title>Team Tasmania</title>
+                <filesize>161407</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1177.JPG</url>
+                <title>Team Victoria</title>
+                <description>Kevin Beard (Captain)</description>
+                <filesize>108983</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1178.JPG</url>
+                <title>Team Victoria</title>
+                <filesize>148500</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1179.JPG</url>
+                <title>Team NSW</title>
+                <description>Pam Gentle (Captain)</description>
+                <filesize>150831</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1180.JPG</url>
+                <title>Team NSW</title>
+                <filesize>157786</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1181.JPG</url>
+                <title>Team Queensland</title>
+                <description>Gaye Pitman (Captain)</description>
+                <filesize>147802</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1193.JPG</url>
+                <title>Team Queensland</title>
+                <filesize>151363</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1194.JPG</url>
+                <title>Team Queensland</title>
+                <description>Better smiles</description>
+                <filesize>191882</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1183.JPG</url>
+                <title>Team WA</title>
+                <description>Chris McWhirter (Captain)</description>
+                <filesize>122672</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1184.JPG</url>
+                <title>Team WA</title>
+                <filesize>148476</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1186.JPG</url>
+                <title>Team SA</title>
+                <description>Bernie Pfitzner (Captain)</description>
+                <filesize>134135</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1207.JPG</url>
+                <title>Team SA</title>
+                <filesize>181552</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1191.JPG</url>
+                <title>Sports Development Director for Croquet SA</title>
+                <description>Sally Harper outlining 'Hammer Time'</description>
+                <filesize>169434</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1172.JPG</url>
+                <title>Singles Winners:</title>
+                <description>Chris McWhirter (WA) Men's Singles and Anne Quinn (Vic) Women's Singles</description>
+                <filesize>126338</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1165.JPG</url>
+                <title>Men's Singles Winner and Runner-up:</title>
+                <description>Chris McWhirter (WA) and Kim Reynolds (WA)</description>
+                <filesize>209725</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1153.JPG</url>
+                <title>Women's Singles Runner-up and Winner:</title>
+                <description>Wendy Dickson (Vic) and Anne Quinn (Vic)</description>
+                <filesize>80229</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1166.JPG</url>
+                <title>Anne Quinn (Vic), Kim Reynolds (WA), Wendy Dickson (Vic) and Chris McWhirter  (WA)</title>
+                <filesize>195565</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1200.JPG</url>
+                <title>The Cocktail Party</title>
+                <filesize>175990</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1201.JPG</url>
+                <title>The Cocktail Party</title>
+                <filesize>161408</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1209.JPG</url>
+                <title>Best Dressed Man (Apparently)</title>
+                <description>Ron Ron McBride (SA) and Guests</description>
+                <filesize>211482</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1152.JPG</url>
+                <title>Part of Team Queensland</title>
+                <description>In deep discussion</description>
+                <filesize>116425</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1150.JPG</url>
+                <title>Looking after the Refreshments</title>
+                <description>Claire Wilson, Stewart Kingsborough ans Helen Anstey</description>
+                <filesize>117956</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1196.JPG</url>
+                <title>Looking after the Bar</title>
+                <filesize>140471</filesize>
+            </Image>
+            <Image>
+                <url>Presentations/IMG_1149.JPG</url>
+                <title>Julie, Anne and Graham from SA</title>
+                <filesize>166170</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.4</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>doubles</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/cloud/</ImageTemplate>
+            <ImageTemplateName>Cloud</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Public/ACA/Events/2014/GC Open/singles/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Public/ACA/Events/2014/GC Open/singles</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>cloud</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/012.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>Martin Clarke</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/013.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>Lester Hughes</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/014.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>Jim Saunders and Geoff Reilley</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/034.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>Eric Miller</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/040.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>John Grieve</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/049.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>Neil White</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/052.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>Anna Miller</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/059.gif</url>
+                <title>GC Open Singles 2014</title>
+                <description>Tony Hall</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/001.gif</url>
+                <title>GC Open Singles Final 2014</title>
+                <description>Martin Clarke</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/003.gif</url>
+                <title>GC Open Singles Final 2014</title>
+                <description>Martin Clarke and John Van der Touw</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/007.gif</url>
+                <title>GC Open Singles Final 2014</title>
+                <description>Martin Clarke</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/singles/026.gif</url>
+                <title>GC Open Singles Final 2014</title>
+                <description>John Van der Touw and Martin Clarke</description>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

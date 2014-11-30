@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>false</Controls>
+            <GalleryName>Homepage</GalleryName>
+            <GallerySuffix>3</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/mellow/</ImageTemplate>
+            <ImageTemplateName>Mellow</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/ACA/index.htm</PublishFileName>
+            <PublishIndex>index.htm</PublishIndex>
+            <PublishPath>I:/ACA</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>mellow</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Qld vs NSW at North Adelaide 2.jpg</url>
+                <title>Qld vs NSW at North Adelaide 2</title>
+                <filesize>261527</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/SA vs Tas at Norwood 2.jpg</url>
+                <title>SA vs Tas at Norwood 2</title>
+                <filesize>139384</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/SA vs Tas at Norwood 3.jpg</url>
+                <title>SA vs Tas at Norwood 3</title>
+                <filesize>168456</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/SA vs Tas at Norwood 4.jpg</url>
+                <title>SA vs Tas at Norwood 4</title>
+                <filesize>182960</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/SA vs Tas at Norwood.jpg</url>
+                <title>SA vs Tas at Norwood</title>
+                <filesize>210174</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Norwood Croquet Club.jpg</url>
+                <title>Norwood Croquet Club</title>
+                <filesize>278055</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Qld vs NSW at North Adelaide 7.jpg</url>
+                <title>Qld vs NSW at North Adelaide 7</title>
+                <filesize>164125</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Qld vs NSW at North Adelaide 5.jpg</url>
+                <title>Qld vs NSW at North Adelaide 5</title>
+                <filesize>208519</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Qld vs NSW at North Adelaide.jpg</url>
+                <title>Qld vs NSW at North Adelaide</title>
+                <filesize>215681</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Qld vs NSW at North Adelaide 3.jpg</url>
+                <title>Qld vs NSW at North Adelaide 3</title>
+                <filesize>149884</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Serious 'conflab'.jpg</url>
+                <title>Serious 'conflab'</title>
+                <filesize>247923</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Qld vs NSW at North Adelaide 4.jpg</url>
+                <title>Qld vs NSW at North Adelaide 4</title>
+                <filesize>257428</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Vic vs WA at SACA HQ 2.jpg</url>
+                <title>Vic vs WA at SACA HQ 2</title>
+                <filesize>178465</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Vic vs WA at SACA HQ 3.jpg</url>
+                <title>Vic vs WA at SACA HQ 3</title>
+                <filesize>171162</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Vic vs WA at SACA HQ 4.jpg</url>
+                <title>Vic vs WA at SACA HQ 4</title>
+                <filesize>168065</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Vic vs WA at SACA HQ 6.jpg</url>
+                <title>Vic vs WA at SACA HQ 6</title>
+                <filesize>189495</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Vic vs WA at SACA HQ 7.jpg</url>
+                <title>Vic vs WA at SACA HQ 7</title>
+                <filesize>156594</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/Vic vs WA at SACA HQ.jpg</url>
+                <title>Vic vs WA at SACA HQ</title>
+                <filesize>173893</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/ISS/sun/select/for slide/SACA HQ.jpg</url>
+                <title>SACA HQ</title>
+                <filesize>175546</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

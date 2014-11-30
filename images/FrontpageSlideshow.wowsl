@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>2.9</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>false</Controls>
+            <GalleryName>FrontpageSlideshow</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>squares</ImageEffect>
+            <ImageHeight>240</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/elemental/</ImageTemplate>
+            <ImageTemplateName>Elemental</ImageTemplateName>
+            <ImageWidth>320</ImageWidth>
+            <Images>true</Images>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>true</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Public/Documents/ACA/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Public/Documents/ACA</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>elemental</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/001.jpg</url>
+                <title>001</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/003.jpg</url>
+                <title>003</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/2010 MacRob/P8100060.JPG</url>
+                <title>P8100060</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/2010 MacRob/P8100064.JPG</url>
+                <title>P8100064</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/GCDoublesSingles2013/Anne Quinn and Wendy Dickson.jpg</url>
+                <title>Anne Quinn and Wendy Dickson</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/GCDoublesSingles2013/John Levick.jpg</url>
+                <title>John Levick</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC Nationals March 2009/gm2.jpg</url>
+                <title>gm2</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC Nationals March 2009/gm3.jpg</url>
+                <title>gm3</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC Nationals March 2009/gm1.jpg</url>
+                <title>gm1</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC Nationals March 2009/gm5.jpg</url>
+                <title>gm5</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC Nationals March 2009/gm6.jpg</url>
+                <title>gm6</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC Nationals March 2009/gm7.jpg</url>
+                <title>gm7</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC_Open_2008/PB270027.jpg</url>
+                <title>PB270027</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC_Open_2008/PB270028.jpg</url>
+                <title>PB270028</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC_Open_2008/PB270029.jpg</url>
+                <title>PB270029</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC_Open_2008/t_PB270009.jpg</url>
+                <title>t_PB270009</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC_Open_2009/CIMG5959.jpg</url>
+                <title>CIMG5959</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/AC_Open_2009/CIMG5942.jpg</url>
+                <title>CIMG5942</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/GC_Nationals_2008/P1040822.jpg</url>
+                <title>P1040822</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/GC_Nationals_2008/P1040914.jpg</url>
+                <title>P1040914</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/GC_Nationals_2008/P1040993.jpg</url>
+                <title>P1040993</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/GC_Nationals_2008/P1050130.jpg</url>
+                <title>P1050130</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/WWWGCC Photos/Concentration.jpg</url>
+                <title>Concentration</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/Documents/ACA/Photos/WWWGCC Photos/P1080298.jpg</url>
+                <title>P1080298</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

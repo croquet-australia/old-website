@@ -1,0 +1,181 @@
+/* Left column, including Menu */
+#left {
+font-family:Arial, Verdana, Helvetica, sans-serif;
+font-size:12px;
+font-style:normal;
+font-weight:normal;
+line-height:18px;
+float:left;
+display:inline;
+width:150px;}
+
+/* Menu */
+.menu {
+margin-top:0px}/* Positions Menu in relation to relative position */
+
+.menu ul {
+font-size:12px;
+margin:0;
+padding:0;
+outline:0;
+background:#ffffff;
+font-weight:bold;}
+
+.menu li {
+font-size:12px;
+display:block;
+position:relative;
+background:#006600;
+border:1px solid #ffffff;
+border-width:0 0 1px 0;}
+
+/* get rid of the table in IE */
+.menu table {position:absolute;border-collapse:collapse;top:0;left:0;z-index:100;font-size:1em;}
+
+.menu a, .menu a:visited {
+width:140px;
+display:block; 
+text-decoration:none;
+line-height:24px;
+color:#ffffff;
+text-indent:5px;
+padding-left:5px;
+border-left:6px solid #333333;
+vertical-align:bottom;}
+
+/* style the link hover */
+* html .menu a:hover {color:#000000;background:#ffff66;border-left:6px solid #000000;}
+
+.menu :hover > a {
+color:#000000;
+background:#ffff66;
+border-left:6px solid #000000;}
+
+.menu ul ul {
+visibility:hidden;
+position:absolute;
+top:-1px;
+left:150px;
+border-top:1px solid #ffffff;}
+
+/* Provides an arrow on each Sub-Menu item */
+.sub {
+background:transparent url(/images/navarrow.gif) no-repeat 100% 50%;
+display:block;}
+
+/* make the second level visible when hover on first level list OR link */
+.menu ul li:hover ul,.menu ul a:hover ul {visibility:visible;border-right:1px solid #ffffff;padding-left:1px;width:150px;}
+/* keep the third level hidden when you hover on first level list OR link */
+.menu ul :hover ul ul{visibility:hidden;}
+/* keep the fourth level hidden when you hover on second level list OR link */
+.menu ul :hover ul :hover ul ul{visibility:hidden;}
+/* make the third level visible when you hover over second level list OR link */
+.menu ul :hover ul :hover ul{visibility:visible;}
+/* make the fourth level visible when you hover over third level list OR link */
+.menu ul :hover ul :hover ul :hover ul {visibility:visible;}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #006600;
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #660000;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #660000;
+}
+
+
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #141bdb;
+}
+
+body {
+	background-image: url(/watermark.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.style3 {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	color:#000;
+}
+
+.style4 {
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	color:#F00;
+}
+
+.style5 {
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	color:#03F;
+}
+
+.style6 {
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	color:#03F;
+}
+
+.style7 {
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+
+.small-italic {
+	font-size: 70%;
+	font-style: italic;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+.pstyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+.tdback { background-image: url(/images/bg.gif); background-repeat:no-repeat; background-position:center; } 
