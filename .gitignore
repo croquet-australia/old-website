@@ -1,0 +1,25 @@
+########################
+# Windows
+########################
+
+[Aa]rtifacts/
+[Bb]in/
+[Ll]ogs/
+[Oo]bj/
+
+*DS_Store
+thumbs.db
+
+########################
+# Visual Studio
+########################
+
+_NCrunch_*/
+[Pp]ackages/
+
+*.user
+*.suo
+
+########################
+# Solution specific
+########################
