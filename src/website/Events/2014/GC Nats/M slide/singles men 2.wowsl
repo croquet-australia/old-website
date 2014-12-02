@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>singles men</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>true</Preloader>
+            <PublishFileName>I:/ACA/Events/2014/GC Nats/M slide/Men's Singles Slide.html</PublishFileName>
+            <PublishIndex>Men's Singles Slide.html</PublishIndex>
+            <PublishPath>I:/ACA/Events/2014/GC Nats/M slide</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>../Singles/Men/select/Bob Godfrey (TAS) at Norwood.jpg</url>
+                <title>Bob Godfrey (TAS) at Norwood</title>
+                <filesize>226300</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Chas Quinn at Norwood.png</url>
+                <title>Chas Quinn at Norwood</title>
+                <filesize>1121079</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Chris McWhirter (WA) at Norwood.jpg</url>
+                <title>Chris McWhirter (WA) at Norwood</title>
+                <filesize>350328</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/David Woods (NSW) at Norwood.jpg</url>
+                <title>David Woods (NSW) at Norwood</title>
+                <filesize>150514</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/John Arney (SA) at North Adelaide.jpg</url>
+                <title>John Arney (SA) at North Adelaide</title>
+                <filesize>181688</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/John Compton (NSW) at North Adelaide.jpg</url>
+                <title>John Compton (NSW) at North Adelaide</title>
+                <filesize>343907</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Hyde Park.jpg</url>
+                <title>Graeme Thomas	(SA) at Hyde Park</title>
+                <filesize>266754</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Kim Reynolds (WA) at Norwood.jpg</url>
+                <title>Kim Reynolds (WA) at Norwood</title>
+                <filesize>226659</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Hyde Park 2.jpg</url>
+                <title>at Hyde Park 2</title>
+                <filesize>247596</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Lester Hughes (VIC) at North Adelaide.jpg</url>
+                <title>Lester Hughes (VIC) at North Adelaide</title>
+                <filesize>169214</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Hyde Park 3.jpg</url>
+                <title>Ron McBride at Hyde Park 3</title>
+                <filesize>272887</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Ned Wilson (SA) at North Adelaide.jpg</url>
+                <title>Ned Wilson (SA) at North Adelaide</title>
+                <filesize>247318</filesize>
+            </Image>
+            <Image>
+                <url>Sundry/Bob Godfrey (TAS) at Hyde Park.jpg</url>
+                <title>Bob Godfrey (TAS) at Hyde Park</title>
+                <filesize>215143</filesize>
+            </Image>
+            <Image>
+                <url>Sundry/Hyde Park Croquet Club.jpg</url>
+                <title>Hyde Park Croquet Club</title>
+                <filesize>187666</filesize>
+            </Image>
+            <Image>
+                <url>Sundry/Men's Plate at Hyde Park.jpg</url>
+                <title>Men's Plate at Hyde Park</title>
+                <filesize>266019</filesize>
+            </Image>
+            <Image>
+                <url>Sundry/Stephen Thornton (NSW) and John Compton (NSW) at Brighton.jpg</url>
+                <title>Stephen Thornton (NSW) and John Compton (NSW) at Brighton</title>
+                <filesize>135269</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Chris and Kim (playing) at SACA HQ.jpg</url>
+                <title>Chris and Kim (playing) at SACA HQ</title>
+                <filesize>264105</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Chris McWhirter (WA) at Norwood.jpg</url>
+                <title>Chris McWhirter (WA) at Norwood</title>
+                <filesize>350328</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Chris McWhirter (WA).jpg</url>
+                <title>Chris McWhirter (WA)</title>
+                <filesize>180534</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Brighton 2.jpg</url>
+                <title>at Brighton 2</title>
+                <filesize>201020</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/David Woods (NSW) at Norwood.jpg</url>
+                <title>David Woods (NSW) at Norwood</title>
+                <filesize>150514</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Brighton 3.jpg</url>
+                <title>at Brighton 3</title>
+                <filesize>227183</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Brighton.jpg</url>
+                <title>at Brighton</title>
+                <filesize>205507</filesize>
+            </Image>
+            <Image>
+                <url>Sundry/Brighton Croquet Club.jpg</url>
+                <title>Brighton Croquet Club</title>
+                <filesize>216165</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Hyde Park 2.jpg</url>
+                <title>at Hyde Park 2</title>
+                <filesize>247596</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at Hyde Park.jpg</url>
+                <title>at Hyde Park</title>
+                <filesize>266754</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/at SACA HQ.jpg</url>
+                <title>at SACA HQ</title>
+                <filesize>218557</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Chas Quinn at Norwood.png</url>
+                <title>Chas Quinn at Norwood</title>
+                <filesize>1121079</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Rob McAdam (TAS) at North Adelaide.jpg</url>
+                <title>Rob McAdam (TAS) at North Adelaide</title>
+                <filesize>109718</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/John Arney (SA) at North Adelaide.jpg</url>
+                <title>John Arney (SA) at North Adelaide</title>
+                <filesize>181688</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/John Compton (NSW) at North Adelaide.jpg</url>
+                <title>John Compton (NSW) at North Adelaide</title>
+                <filesize>343907</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Kim Reynolds (WA) at Norwood.jpg</url>
+                <title>Kim Reynolds (WA) at Norwood</title>
+                <filesize>226659</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Lester Hughes (VIC) at North Adelaide.jpg</url>
+                <title>Lester Hughes (VIC) at North Adelaide</title>
+                <filesize>169214</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Ned Wilson (SA) at North Adelaide.jpg</url>
+                <title>Ned Wilson (SA) at North Adelaide</title>
+                <filesize>247318</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Peter Nicholson (QLD) at North Adelaide.jpg</url>
+                <title>Peter Nicholson (QLD) at North Adelaide</title>
+                <filesize>321616</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/Robert Godfrey (Tas) on left and John Levick (NSW) at North Adelaide.jpg</url>
+                <title>Robert Godfrey (Tas) on left and John Levick (NSW) at North Adelaide</title>
+                <filesize>245679</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/The Finals - Chris McWhirter (WA).jpg</url>
+                <title>The Finals - Chris McWhirter (WA)</title>
+                <filesize>213981</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/The Finals - Kim Reynolds (WA).jpg</url>
+                <title>The Finals - Kim Reynolds (WA)</title>
+                <filesize>303346</filesize>
+            </Image>
+            <Image>
+                <url>../Singles/Men/select/The Finals - Winning shot by Chris McWhirter  (WA).jpg</url>
+                <title>The Finals - Winning shot by Chris McWhirter  (WA)</title>
+                <filesize>251544</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>ISS</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>true</Preloader>
+            <PublishFileName>I:/ACA/Events/2014/GC Nats/ISS/ISS Slide.html</PublishFileName>
+            <PublishIndex>ISS Slide.html</PublishIndex>
+            <PublishPath>I:/ACA/Events/2014/GC Nats/ISS</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>true</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="true">
+            <Image>
+                <url>fri/select/slide/State Flags at SACA HQ.jpg</url>
+                <title>The WCF Interstate Shield</title>
+                <description>State Flags at SACA HQ</description>
+                <filesize>249009</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Anne Woodhouse (SA).jpg</url>
+                <title>Anne Woodhouse (SA)</title>
+                <filesize>175358</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Gaye Pitman (Qld) at Norwood.jpg</url>
+                <title>Gaye Pitman (Qld) at Norwood</title>
+                <filesize>204709</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/John van der Touw (Vic) at Norwood.jpg</url>
+                <title>John van der Touw (Vic) at Norwood</title>
+                <filesize>184742</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Murray Tinker (Qld) at Norwppd.jpg</url>
+                <title>Murray Tinker (Qld) at Norwppd</title>
+                <filesize>227274</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Rosemary Newsham (Qld) at Norwood.jpg</url>
+                <title>Rosemary Newsham (Qld) at Norwood</title>
+                <filesize>194842</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Shirlene McBride (SA) at North Adelaide.jpg</url>
+                <title>Shirlene McBride (SA) at North Adelaide</title>
+                <filesize>204855</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Susan Bertram (Qld) at Norwood.jpg</url>
+                <title>Susan Bertram (Qld) at Norwood</title>
+                <filesize>200337</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Wendy Dickson (Vic) at Norwood.jpg</url>
+                <title>Wendy Dickson (Vic) at Norwood</title>
+                <filesize>234893</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Pam Gentle (NSW) at Nort Adelaide.jpg</url>
+                <title>Pam Gentle (NSW) at Nort Adelaide</title>
+                <filesize>229024</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Norwood Croquet Club.jpg</url>
+                <title>Norwood Croquet Club</title>
+                <filesize>182232</filesize>
+            </Image>
+            <Image>
+                <url>sat/select/Geoff Jamieson (Qld) at Norwood.jpg</url>
+                <title>Geoff Jamieson (Qld) at Norwood</title>
+                <filesize>183733</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Vic vs SA at Norwood 2.jpg</url>
+                <title>Vic vs SA at Norwood</title>
+                <filesize>153622</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Spectators at Norwood.jpg</url>
+                <title>Spectators at Norwood</title>
+                <filesize>210218</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Vic vs SA at Norwood 3.jpg</url>
+                <title> Vic vs SA at Norwood </title>
+                <filesize>172243</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Vic vs SA at Norwood 4.jpg</url>
+                <title>Vic vs SA at Norwood 2</title>
+                <filesize>181408</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Vic vs SA at Norwood 5.jpg</url>
+                <title>Vic vs SA at Norwood 3</title>
+                <filesize>176536</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Vic vs SA at Norwood.jpg</url>
+                <title>Vic vs SA at Norwood 4</title>
+                <filesize>213138</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Polly Butler - Venue Manager Norwood.jpg</url>
+                <title>Polly Butler - Venue Manager Norwood</title>
+                <filesize>184923</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/NSW vs Tas at SACA HQ.jpg</url>
+                <title>NSW vs Tas at SACA HQ</title>
+                <filesize>204232</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/NSW vs Tas at South Terrace.jpg</url>
+                <title>NSW vs Tas at South Terrace</title>
+                <filesize>227281</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/NSW vs Tas at SACA HQ 2.jpg</url>
+                <title>NSW vs Tas at SACA HQ 2</title>
+                <filesize>148914</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Peter Freer (NSW) injured on Day 2.jpg</url>
+                <title> Casualty - Peter Freer (NSW) injured on Day 2</title>
+                <filesize>199614</filesize>
+            </Image>
+            <Image>
+                <url>fri/select/slide/Jane Lewis - Venue Manager SACA HQ&amp;South Terrace.jpg</url>
+                <title>Jane Lewis - Venue Manager SACA HQ </title>
+                <filesize>122482</filesize>
+            </Image>
+            <Image>
+                <url>select/NSW vs Vic at SACA HQ.jpg</url>
+                <title>NSW vs Vic at SACA HQ 3</title>
+                <filesize>144259</filesize>
+            </Image>
+            <Image>
+                <url>select/NSW vs Vic at SACA HQ 2.jpg</url>
+                <title>NSW vs Vic at SACA HQ 4</title>
+                <filesize>181341</filesize>
+            </Image>
+            <Image>
+                <url>select/NSW vs Vic at SACA HQ 3.jpg</url>
+                <title>NSW vs Vic at SACA HQ 5</title>
+                <filesize>206106</filesize>
+            </Image>
+            <Image>
+                <url>select/NSW vs Vic at SACA HQ 4.jpg</url>
+                <title>NSW vs Vic at SACA HQ 6</title>
+                <filesize>260068</filesize>
+            </Image>
+            <Image>
+                <url>select/NSW vs Vic at SACA HQ 5.jpg</url>
+                <title>NSW vs Vic at SACA HQ 7</title>
+                <filesize>211597</filesize>
+            </Image>
+            <Image>
+                <url>select/On the track from South Terrace to SACA Headquarters.jpg</url>
+                <title>On the track from South Terrace to SACA Headquarters</title>
+                <filesize>358189</filesize>
+            </Image>
+            <Image>
+                <url>select/Managing Saca Headquarters.jpg</url>
+                <title>Virginia Rowland - Managing SACA Headquarters</title>
+                <filesize>319848</filesize>
+            </Image>
+            <Image>
+                <url>select/WA  vs  SA at North Adelaide.jpg</url>
+                <title>WA  vs  SA at North Adelaide</title>
+                <filesize>200776</filesize>
+            </Image>
+            <Image>
+                <url>select/WA  vs  SA at North Adelaide 2.jpg</url>
+                <title>WA  vs  SA at North Adelaide 2</title>
+                <filesize>189030</filesize>
+            </Image>
+            <Image>
+                <url>select/WA  vs  SA at North Adelaide 3.jpg</url>
+                <title>WA  vs  SA at North Adelaide 3</title>
+                <filesize>210068</filesize>
+            </Image>
+            <Image>
+                <url>select/WA  vs  SA at North Adelaide 4.jpg</url>
+                <title>WA  vs  SA at North Adelaide 4</title>
+                <filesize>193531</filesize>
+            </Image>
+            <Image>
+                <url>select/WA  vs  SA at North Adelaide 5.jpg</url>
+                <title>WA  vs  SA at North Adelaide 5</title>
+                <filesize>181860</filesize>
+            </Image>
+            <Image>
+                <url>select/WA  vs  SA at North Adelaide 6.jpg</url>
+                <title>WA  vs  SA at North Adelaide 6</title>
+                <filesize>216059</filesize>
+            </Image>
+            <Image>
+                <url>select/WA  vs  SA at North Adelaide 7.jpg</url>
+                <title>WA  vs  SA at North Adelaide 7</title>
+                <filesize>159337</filesize>
+            </Image>
+            <Image>
+                <url>select/Managing North Adelaide.jpg</url>
+                <title>Janet Willshire - Managing North Adelaide</title>
+                <filesize>277840</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>singles men</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/ACA/Events/2014/GC Nats/Ws slide/Women's Singles Slideslide.html</PublishFileName>
+            <PublishIndex>Women's Singles Slideslide.html</PublishIndex>
+            <PublishPath>I:/ACA/Events/2014/GC Nats/Ws slide</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Anne Quinn (VIC) and Gavin Bow (Referee).jpg</url>
+                <title>Anne Quinn (VIC) and Gavin Bow (Referee)</title>
+                <filesize>278512</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Anne Quinn (VIC) at South Terrace.jpg</url>
+                <title>Anne Quinn (VIC) at South Terrace</title>
+                <filesize>203197</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Norma Greig (SA) at South Terrace.jpg</url>
+                <title>Norma Greig (SA) at South Terrace</title>
+                <filesize>206276</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Rosemary Newsham (QLD) at South Terrace.jpg</url>
+                <title>Rosemary Newsham (QLD) at South Terrace</title>
+                <filesize>252778</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Rosemary Newsham (QLD).jpg</url>
+                <title>Rosemary Newsham (QLD)</title>
+                <filesize>142735</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Sue Anderson (WA) at South Terrace.jpg</url>
+                <title>Sue Anderson (WA) at South Terrace</title>
+                <filesize>206782</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Sue Anderson (WA) at SouthTerrace 2.jpg</url>
+                <title>Sue Anderson (WA) at SouthTerrace 2</title>
+                <filesize>344095</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/South Terrace Croquet Club.jpg</url>
+                <title>South Terrace Croquet Club</title>
+                <filesize>354000</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Fleur Brockway (WA) at SACA.jpg</url>
+                <title>Fleur Brockway (WA) at SACA</title>
+                <filesize>336694</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Virginia Arney (SA) at SACA.jpg</url>
+                <title>Virginia Arney (SA) at SACA</title>
+                <filesize>124490</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Women/select/Kate Hazell (SA) at SACA.jpg</url>
+                <title>Kate Hazell (SA) at SACA</title>
+                <filesize>232150</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Norma Greig (SA).jpg</url>
+                <title>Norma Greig (SA) at Norwood</title>
+                <filesize>157401</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Creina Dawson (SA).jpg</url>
+                <title>Creina Dawson (SA)</title>
+                <filesize>188619</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Bernie Pfitzner (SA) and Virginia Arney (SA)1.jpg</url>
+                <title>Bernie Pfitzner (SA) and Virginia Arney (SA) at the 'W' finals at North Adelaide</title>
+                <filesize>178729</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Bernie Pfitzner (SA) and Virginia Arney (SA).jpg</url>
+                <title>Bernie Pfitzner (SA) and Virginia Arney (SA) 2</title>
+                <filesize>189590</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Meredith Morgan (SA) - Copy.jpg</url>
+                <title>Meredith Morgan (SA) at SACA</title>
+                <filesize>110733</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Singles/Virginia Arney (SA).jpg</url>
+                <title>Virginia Arney (SA) at the 'W' finals at North Adelaide</title>
+                <filesize>161631</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

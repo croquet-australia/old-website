@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.4</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>doubles</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/cloud/</ImageTemplate>
+            <ImageTemplateName>Cloud</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Public/ACA/Events/2014/GC Open/doubles/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Public/ACA/Events/2014/GC Open/doubles</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>cloud</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/010.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description>Anne Quinn and Stephen Forster</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/013.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description>Anne Quinn and Stephen Forster</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/014.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description>Stephen Forster</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/015.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description> John Van der Touw, Stephen Forster, Kevin Beard and Anne Quinn</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/020.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description>Anne Quinn and Stephen Forster</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/034.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description>John Van der Touw</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/078.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description>Stephen Forster and Anne Quinn</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/090.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description> Jim Clement, Anne Quinn, Stephen Forster and John Van der Touw</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/095.gif</url>
+                <title>GC Open Doubles Final</title>
+                <description>Anne Quinn and Stephen Forster</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/163.gif</url>
+                <title>GC Open Doubles  Final</title>
+                <description> John Van der Touw, Kevin Beard, Anne Quinn and Stephen Forster</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/082.gif</url>
+                <title>GC Open Doubles Plate Final</title>
+                <description>Kim Reynolds, Lester Hughes, Peter Freer and Tricia Devlin</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/089.gif</url>
+                <title>GC Open Doubles Plate Final</title>
+                <description>Kim Reynolds, Tricia Devlin and Kate Patrick</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/118.gif</url>
+                <title>GC Open Doubles Plate Final</title>
+                <description>Tricia Devlin, Lester Hughes and Kim Reynolds</description>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Open 14/web/doubles/153.gif</url>
+                <title>GC Open Doubles Plate Final</title>
+                <description>Neil White, Peter Freer, Lester Hughes and Brian Reither</description>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

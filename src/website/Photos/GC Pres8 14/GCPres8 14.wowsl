@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.4</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>GCPres8 14</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/cloud/</ImageTemplate>
+            <ImageTemplateName>Cloud</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Public/ACA/Photos/GC Pres8 14/wow slider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Public/ACA/Photos/GC Pres8 14/wow slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>cloud</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/016.gif</url>
+                <title>Kathleen Colclough, Martin Clarke, John Levick and Darren McLoughlin</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/021.gif</url>
+                <title>Chris McWhirter and Kevin Beard</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/028.gif</url>
+                <title>Kathleen Coloclough, Rosie Landrebe and Darren McLoughlin</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/034.gif</url>
+                <title>Chas Quinn and Joe Dimech</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/067.gif</url>
+                <title>Virginia Arney and Sue Beattie</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/073.gif</url>
+                <title>Barb Piggott</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/075.gif</url>
+                <title>Rosemary Newsham</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/081.gif</url>
+                <title>Queensland table at the players meeting</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/084.gif</url>
+                <title>Players meeting</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/105.gif</url>
+                <title>Kevin Beard winner of the 1st President 8</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/114.gif</url>
+                <title>Judy Wembridge winner of the 2nd President 8</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/119.gif</url>
+                <title>Brett McHardy winner of the 3rd President 8</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Public/ACA/Photos/GC Pres8 14/Web/129.gif</url>
+                <title>Bernie Pfitzner winner of the Women’s President 8</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

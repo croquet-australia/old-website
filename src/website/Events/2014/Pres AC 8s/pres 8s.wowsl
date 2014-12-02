@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>AC Pres 8s</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>domino</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/ACA/Events/2014/Pres AC 8s/Photos.html</PublishFileName>
+            <PublishIndex>Photos.html</PublishIndex>
+            <PublishPath>I:/ACA/Events/2014/Pres AC 8s</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/ACA/Events/2014/Pres AC 8s/group.jpg</url>
+                <title>All  players (staying for the presentation)  </title>
+                <description>Winners at the front</description>
+                <filesize>1186865</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/Pres AC 8s/004.JPG</url>
+                <title>Women's Eights</title>
+                <description>Anna Miller (Vic)r, Kerri-Ann Organ(Vic) Elaine Coverdale (Vic), Willy Silk (QLD),Sue Beattie(Tas) Elaine Roomes (Tas), Anne Quinn(Vic) - not shown Rosemary Newsham (Qld)</description>
+                <filesize>850061</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/Pres AC 8s/010.JPG</url>
+                <title>Winner of the Third President Eights</title>
+                <description>Jannine Hawker(WA) </description>
+                <filesize>684961</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/Pres AC 8s/018.JPG</url>
+                <title>Women's Eights</title>
+                <description>From left to right Anne Quinn 3rd place(Vic), Sue Beattie winner of the Jean Armstrong Bowl (women’s 8)(Tas) and Elaine Coverdale 2nd place(Vic)</description>
+                <filesize>659929</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

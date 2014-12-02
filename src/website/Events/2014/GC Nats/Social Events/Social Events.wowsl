@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.4</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>false</Controls>
+            <GalleryName>Social Events</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>stack_vertical</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/catalyst/</ImageTemplate>
+            <ImageTemplateName>Catalyst</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/ACA/Events/2014/GC Nats/Social Events/Social Events.html</PublishFileName>
+            <PublishIndex>Social Events.html</PublishIndex>
+            <PublishPath>I:/ACA/Events/2014/GC Nats/Social Events</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>catalyst</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>//Alf-asus-pc/i/ACA/Events/2014/GC Nats/Social Events/IMG_0791.JPG</url>
+                <title>Welcome Function</title>
+                <filesize>184202</filesize>
+            </Image>
+            <Image>
+                <url>//Alf-asus-pc/i/ACA/Events/2014/GC Nats/Social Events/IMG_0792.JPG</url>
+                <title>Welcome Function</title>
+                <filesize>188983</filesize>
+            </Image>
+            <Image>
+                <url>//Alf-asus-pc/i/ACA/Events/2014/GC Nats/Social Events/IMG_0790.JPG</url>
+                <title>Welcome Function</title>
+                <filesize>228467</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Social Events/Cynthia Tacey (QLD) and Virginia Arney (SA).jpg</url>
+                <title>Cynthia Tacey (QLD) and Virginia Arney (SA)</title>
+                <filesize>182512</filesize>
+            </Image>
+            <Image>
+                <url>//Alf-asus-pc/i/ACA/Events/2014/GC Nats/Social Events/IMG_0798.JPG</url>
+                <title>The 'Catering Inc.': Helen, Grant, Tim and Bob</title>
+                <filesize>41082</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Social Events/IMG_0796.JPG</url>
+                <title>'Manning' the Bar (Maree and Sally)</title>
+                <filesize>48213</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

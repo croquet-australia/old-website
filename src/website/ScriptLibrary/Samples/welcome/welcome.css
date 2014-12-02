@@ -1,0 +1,35 @@
+@charset "utf-8";
+/*
+ Ajatix Advanced CSS Drop Down Menu
+ Copyright (C) 2009-2013 Ajatix. All rights reserved.
+ http://www.ajatix.com
+*/
+.AJXCSSMenudEPLVAD {position:relative;z-index:100;min-width:588px;border:1px solid #2e6001;background:#2e6001;}
+.AJXCSSMenudEPLVAD ul {position:relative;display:inline-block;margin:0;padding:0;list-style-type:none;}
+*+html .AJXCSSMenudEPLVAD ul {display:inline;}
+.AJXCSSMenudEPLVAD li {float:left;margin:0;}
+.AJXCSSMenudEPLVAD li:hover,.AJXCSSMenudEPLVAD li.ajxover {position:relative;}
+.AJXCSSMenudEPLVAD li a {display:block;height:24px;white-space:nowrap;overflow:hidden;padding:0 11px 0 11px;font:11px Arial,Helvetica,sans-serif;line-height:24px;text-decoration:none;text-align:left;color:#cccc00;}
+.AJXCSSMenudEPLVAD li:hover > a,.AJXCSSMenudEPLVAD li.ajxover > a {color:#f0f000;background:#416e19;}
+.AJXCSSMenudEPLVAD a.ajxsub {padding:0 20px 0 11px;background:url(welcome_files/top-sub.gif) no-repeat center right;}
+.AJXCSSMenudEPLVAD li:hover > a.ajxsub,.AJXCSSMenudEPLVAD li.ajxover > a.ajxsub {background:#416e19 url(welcome_files/top-sub-mo.gif) no-repeat center right;}
+.AJXCSSMenudEPLVAD li ul {position:absolute;left:-9999px;top:-9999px;width:154px;height:auto;display:inline-block;vertical-align:top;font-size:0;float:none;margin:0;border:1px solid #2e6001;background:#2e6001;}
+.AJXCSSMenudEPLVAD li:hover > ul,.AJXCSSMenudEPLVAD li.ajxover > ul {left:-1px;top:24px;}
+.AJXCSSMenudEPLVAD li li {width:154px;padding:0}
+.AJXCSSMenudEPLVAD li li a {float:none;margin:0;width:138px;height:auto;white-space:normal;padding:6px 8px 7px 8px;font:11px Arial,Helvetica,sans-serif;line-height:11px;border:0;}
+.AJXCSSMenudEPLVAD li:hover li a,.AJXCSSMenudEPLVAD li.ajxover li a {font-style:normal;font-weight:normal;text-decoration:none;color:#cccc00;background:none;}
+.AJXCSSMenudEPLVAD li li:hover > a,.AJXCSSMenudEPLVAD li li.ajxover > a {color:#f0f000;background:#416e19;}
+.AJXCSSMenudEPLVAD img {position:fixed;left:0;top:0;width:0;height:0;z-index:-1;display:none;}
+.AJXCSSMenudEPLVAD li.tsub:hover ~ li img {width:100%;height:100%;display:block;}
+@media screen and (max-width:480px) {
+.AJXCSSMenudEPLVAD {min-width:0;width:100%;background-repeat:repeat-x;cursor:pointer;}
+.AJXCSSMenudEPLVAD:before {position:absolute;right:10px;content:"\2261";font:bold 24px Arial,Helvetica,sans-serif;line-height:24px;color:#cccc00;z-index:1;}
+.AJXCSSMenudEPLVAD > ul {width:100%;height:0;overflow:hidden;padding-top:24px;cursor:default;}
+.AJXCSSMenudEPLVAD li ul {padding-top:0;}
+.AJXCSSMenudEPLVAD:hover ul,.AJXCSSMenudEPLVAD .ajxover ul {height:auto;}
+.AJXCSSMenudEPLVAD li {float:none;padding:0 0px 0px 0px;}
+.AJXCSSMenudEPLVAD li li {width:auto;}
+.AJXCSSMenudEPLVAD li li a {width:auto;}
+.AJXCSSMenudEPLVAD li ul {width:auto;}
+.AJXCSSMenudEPLVAD li:hover > ul,.AJXCSSMenudEPLVAD li.ajxover > ul {position:static;}
+}

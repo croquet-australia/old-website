@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>Presentations</GalleryName>
+            <GallerySuffix>3</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/ACA/Events/2014/GC Nats/Presentation/Presentations Slide.html</PublishFileName>
+            <PublishIndex>Presentations Slide.html</PublishIndex>
+            <PublishPath>I:/ACA/Events/2014/GC Nats/Presentation</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Opening Address by Eileen Ferguson (VP Croquet SA).jpg</url>
+                <title>Opening the Presentations Function</title>
+                <description>By Eileen Ferguson (VP Croquet SA)</description>
+                <filesize>167189</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The Prizes.jpg</url>
+                <title>The Prizes</title>
+                <filesize>163072</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winners State Bronze Medals.jpg</url>
+                <title>Winners of  Bronze Medals</title>
+                <description>Graham Keating (Tas), Geoff Jamieson (Qld), Kim Reynolds (WA) and Ron McBride (SA)</description>
+                <filesize>155751</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Silver Medal.jpg</url>
+                <title>Winner of Silver Medal</title>
+                <description>Peter Freer (NSW)</description>
+                <filesize>175538</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Gold Medal.jpg</url>
+                <title>Winner Gold Medal</title>
+                <description>John van der Touw (Vic)</description>
+                <filesize>226773</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Plate Men's Singles.jpg</url>
+                <title>Winner Plate Men's Singles</title>
+                <description>Ned Wilson (SA) - received by Stewart Kingsborough</description>
+                <filesize>183776</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner 'W' Event.jpg</url>
+                <title>Winner 'W' Event</title>
+                <description>David Wise (SA)</description>
+                <filesize>177189</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Z Event Men's Singles.jpg</url>
+                <title>Winner Z Event Men's Singles</title>
+                <description>Martin Clarke (WA)</description>
+                <filesize>157630</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Y Event Men's Singles.jpg</url>
+                <title>Winner Y Event Men's Singles</title>
+                <description>John Levick (NSW)</description>
+                <filesize>172240</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Third Men's Singles.jpg</url>
+                <title>Third Men's Singles</title>
+                <description>John Van Der Touw (Vic)</description>
+                <filesize>196475</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Second Place Men's Singles.jpg</url>
+                <title>Second Place Men's Singles</title>
+                <description>Kim Reynolds (WA)</description>
+                <filesize>202006</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Champion Men's Singles.jpg</url>
+                <title>Champion Men's Singles</title>
+                <description>Chris Mcwhirter (WA)</description>
+                <filesize>233802</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Plate Women's Singels.jpg</url>
+                <title>Winner Plate Women's Singels</title>
+                <description>Susan Anderson (WA)</description>
+                <filesize>185795</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner W Event.jpg</url>
+                <title>Winner W Event</title>
+                <description>Bernie Pfitzner (SA)</description>
+                <filesize>168923</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Z Event Women' sSingles.jpg</url>
+                <title>Winner Z Event Women' sSingles</title>
+                <description>Judy Wembridge (Vic)</description>
+                <filesize>193916</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner Y Event Women' sSingles.jpg</url>
+                <title>Winner Y Event Women's Singles</title>
+                <description>Alison Sharpe (NSW)</description>
+                <filesize>195039</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Third Place Women's Singles.jpg</url>
+                <title>Third Place Women's Singles</title>
+                <description>Meredith Morgan (SA) (Prize received by Barry Haydon)</description>
+                <filesize>168162</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Second Place Women's Singles.jpg</url>
+                <title>Second Place Women's Singles</title>
+                <description>Wendy Dickson (Vic)</description>
+                <filesize>204467</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Champion Women's Singles.jpg</url>
+                <title>Champion Women's Singles</title>
+                <description>Anne Quinn (Vic)</description>
+                <filesize>162668</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/don't know 4.jpg</url>
+                <title>Men's and Women's Champions</title>
+                <description>Chris Mcwhirter (WA) and Anne Quinn (Vic)</description>
+                <filesize>189976</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/WCF Award.jpg</url>
+                <title>WCF Award</title>
+                <description>Presented by Peter Landrebe (Member WCF Management Committee) to Chris Mcwhirter (WA) and Anne Quinn (Vic)</description>
+                <filesize>161275</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Special Prize in  WCF Interstate Shield.jpg</url>
+                <title>Special Prize in  WCF Interstate Shield</title>
+                <description>Tasmania received by Patsy Paine</description>
+                <filesize>227345</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Runner-up of WCF Interstate Shield.jpg</url>
+                <title>Runner-up of WCF Interstate Shield</title>
+                <description>New South Wales</description>
+                <filesize>160942</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Winner of WCF Interstate Shield.jpg</url>
+                <title>Winner of WCF Interstate Shield</title>
+                <description>Victoria</description>
+                <filesize>163931</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'NSW' Table.jpg</url>
+                <title>The 'NSW' Table</title>
+                <filesize>182731</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The Presntation Dinner.jpg</url>
+                <title>The Presntation Dinner</title>
+                <filesize>195320</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The Presntation Dinner 2.jpg</url>
+                <title>The Presntation Dinner 2</title>
+                <filesize>181631</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The Presntation Dinner 3.jpg</url>
+                <title>The Presntation Dinner 3</title>
+                <filesize>191200</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'Queensland' Table.jpg</url>
+                <title>The 'Queensland' Table</title>
+                <filesize>192109</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'SA' Table.jpg</url>
+                <title>The 'SA' Table</title>
+                <filesize>168037</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'SA' Table 2.jpg</url>
+                <title>The 'SA' Table 2</title>
+                <filesize>164903</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'TAS' Table.jpg</url>
+                <title>The 'TAS' Table</title>
+                <filesize>181852</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'Vic' Table.jpg</url>
+                <title>The 'Vic' Table</title>
+                <filesize>164418</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'WA' Table.jpg</url>
+                <title>The 'WA' Table</title>
+                <filesize>154873</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'Council' Table.jpg</url>
+                <title>The 'Council' Table</title>
+                <filesize>173980</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/The 'Top' Table.jpg</url>
+                <title>The 'Top' Table</title>
+                <filesize>216290</filesize>
+            </Image>
+            <Image>
+                <url>I:/ACA/Events/2014/GC Nats/Presentation/All/select/for slide/Closing Address by Neil White (President Croquet Australia).jpg</url>
+                <title>Closing the  Presentations Function</title>
+                <description>By Neil White (President Croquet Australia)</description>
+                <filesize>125936</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
