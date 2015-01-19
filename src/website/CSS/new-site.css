@@ -1,0 +1,53 @@
+﻿.tournaments {
+    margin-bottom: 1em;
+}
+
+    .tournaments .tournament {
+        background-color: #ffffbb;
+        margin-right: 2em;
+        margin-bottom: 1em;
+        border: 1px solid gainsboro;
+        width: 300px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 1em;
+    }
+
+        .tournaments .tournament .tournament-name {
+            font-weight: bold;
+        }
+
+.tournament-name,
+.date {
+    margin-bottom: 0;
+}
+
+table .news-table,
+.results-column {
+    border: 1px solid gainsboro;
+}
+
+.news-table td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    padding: 10px;
+    border: 1px solid gainsboro;
+}
+
+.news-table .news-row-a td {
+    background-color: #ffffbb;
+}
+
+.news-table .news-row-b td {
+    background-color: #cef8ce;
+}
+
+.news-table .title {
+    font-weight: bold;
+}
+
+.news-table .date-posted {
+    font-weight: lighter;
+    font-size: smaller;
+    font-style: italic;
+    margin-bottom: 0.5em;
+}

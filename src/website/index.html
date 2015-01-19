@@ -22,6 +22,8 @@
     <!-- #EndEditable -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link href="/CSS/ACA.css" rel="stylesheet" type="text/css" />
+    <link href="/CSS/new-site.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 
     <!--[if IE 7]><style type="text/css">.menu li {float:left;}</style><![endif]-->
 
@@ -69,77 +71,153 @@
                     </table>
 
                     <!-- Forthcoming tournaments -->
-                    <table width="100%" border="1">
-                        <tr bgcolor="#CC99CC">
-                            <td width="15%" align="center" valign="middle" bgcolor="#FFFF99">
-                                <h2>Forthcoming Tournaments:</h2></td>
-                            <td width="61%" height="55" align="left" valign="middle" bgcolor="#FFFF99">
-                                <p style="padding-left: 1em; font-weight: bold">
-                                    President’s GC Eights<br/>
-                                    Friday 23 – Sunday 25 January, 2015<br/>
-                                    Victorian Croquet Centre
-                                </p>
-                            </td>
-                            <td width="24%" align="center" valign="middle" bgcolor="#FFFF99">
-                                <p>
-                                    <a href="/Events/2015/presidents-gc-eights/presidents-gc-eights-players-as-at-12-january-2015.pdf">Players Listing</a> as at 12 January 2015
-                                </p>
-                            </td>
-                        </tr>
-                    </table>
+                    <div class="tournaments">
+                        <h2>Forthcoming Tournaments:</h2>
 
-                    <div style="height: 1em"></div>
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="tournament col-xs-12 col-sm-6 col-md-3 col-lg-2">
+                                    <p class="tournament-name">President’s GC Eights</p>
+                                    <p class="date">Friday 23 – Sunday 25 January, 2015</p>
+                                    <p class="location">Victorian Croquet Centre</p>
+                                    <p>
+                                        <a href="/Events/2015/presidents-gc-eights/presidents-gc-eights-players-as-at-12-january-2015.pdf">Players Listing</a> as at 12 January 2015
+                                    </p>
+                                </div>
+                                <div class="tournament col-xs-12 col-sm-6 col-md-3 col-lg-2">
+                                    <p class="tournament-name">AC Gold Medal</p>
+                                    <p class="date">Wednesday 11 – Friday 13 March, 2015</p>
+                                    <p class="location">Sydney, NSW</p>
+                                    <ul>
+                                        <li><a href="/Events/2015/ac-mens-and-womens-open/ac-mens-and-womens-open-description.pdf">Description</a></li>
+                                        <li><a href="http://croquet-nsw.org/club/events/150311ACAChampionshipsScheduleAC.pdf">Schedule</a></li>
+                                    </ul>
+                                </div>
+                                <div class="tournament col-xs-12 col-sm-6 col-md-3 col-lg-2">
+                                    <p class="tournament-name">AC Men's & Women's Open Singles</p>
+                                    <p class="date">Saturday 14 – Tuesday 17 March, 2015</p>
+                                    <p class="location">Sydney, NSW</p>
+                                    <ul>
+                                        <li><a href="/Events/2015/ac-mens-and-womens-open/ac-mens-and-womens-open-description.pdf">Description</a></li>
+                                        <li><a href="http://croquet-nsw.org/club/events/150311ACAChampionshipsScheduleAC.pdf">Schedule</a></li>
+                                        <li><a href="http://www.thedufferstice.com/tournaments-by-category/ac/croquet-australia/21-aca-australian-ac-singles-women-s">Online Entry - Women's Open</a></li>
+                                        <li><a href="http://www.thedufferstice.com/tournaments-by-category/ac/croquet-australia/20-aca-australian-ac-singles-men-s">Online Entry - Men's Open</a></li>
+                                    </ul>
+                                </div>
+                                <div class="tournament col-xs-12 col-sm-6 col-md-3 col-lg-2">
+                                    <p class="tournament-name">Eire Cup</p>
+                                    <p class="date">Wednesday 18 – Sunday 22 March, 2015</p>
+                                    <p class="location">Sydney, NSW</p>
+                                    <ul>
+                                        <li><a href="/Events/2015/ac-mens-and-womens-open/ac-mens-and-womens-open-description.pdf">Description</a></li>
+                                        <li><a href="http://croquet-nsw.org/club/events/150311ACAChampionshipsScheduleAC.pdf">Schedule</a></li>
+                                        <li><a href="http://www.thedufferstice.com/tournaments-by-category/ac/croquet-australia/22-aca-eire-cup-2015-presentation-dinner">Presentation Dinner</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <!-- Content Table 2 -->
                     <table align="center" width="100%" border="1">
                         <tr>
                             <!-- Latest News Column -->
-                            <td width="61%" align="center" valign="top">
-                                <h1>Latest News:&nbsp;</h1>
+                            <td class="news-table" width="61%" align="center" valign="top">
+                                <h1>Latest News:</h1>
                                 <table width="100%" border="1" cellpadding="3">
+                                    <!-- Link to Archives -->
                                     <tr>
                                         <td height="34" align="center" bgcolor="#F1FAF1" class="pstyle"><strong>(Click <a href="newsarchive.html">here</a> for News Archive)</strong></td>
                                     </tr>
-                                    <tr>
-                                        <td bgcolor="#66CC66" class="pstyle">
-                                            <p>[12 Jan] <a href="/Events/2015/presidents-gc-eights/presidents-gc-eights-players-as-at-12-january-2015.pdf">Players Listing</a> President GC Eights.</p>
+
+                                    <!-- Latest News Items -->
+                                    <tr class="news-row-b">
+                                        <td>
+                                            <div class="title">Online Entry for ACA Tournaments</div>
+                                            <div class="date-posted">Posted January 19, 2015</div>
+                                            <div class="content">
+                                                <p>
+                                                    The ACA has been working with <a href="http://www.thedufferstice.com/">The Duffers Tice</a> website to enable Players to enter online for ACA Tournaments.
+                                                    Entries to the ACA AC
+                                                    <a href="http://www.thedufferstice.com/tournaments-by-category/ac/croquet-australia/20-aca-australian-ac-singles-men-s">Men’s</a> and
+                                                    <a href="http://www.thedufferstice.com/tournaments-by-category/ac/croquet-australia/21-aca-australian-ac-singles-women-s">Women’s</a>
+                                                    Open Singles Championship are now open. When you have submitted your entry you will automatically receive a confirmation email which also contains
+                                                    details for the ACA Bank account. When you have made your electronic payment please identify it with your surname and either
+                                                    AC Men’s or AC Women’s.
+                                                </p>
+                                                <p>
+                                                    The Executive hopes this innovation will make entry to ACA events seamless. Any feedback on the process is welcome and you can email
+                                                    your comments to <a href="mailto:events@croquet-australia.com.au">events@croquet-australia.com.au</a>
+                                                </p>
+                                            </div>
                                         </td>
                                     </tr>
+
+                                    <tr class="news-row-a">
+                                        <td>
+                                            <div class="title">Australian AC Gold Medal, Men's & Women's Open, Eire Cup 2015</div>
+                                            <div class="date-posted">Posted January 19, 2015</div>
+                                            <div class="content">
+                                                <p>The <a href="/Events/2015/ac-mens-and-womens-open/ac-mens-and-womens-open-description.pdf">description</a> and <a href="http://croquet-nsw.org/club/events/150311ACAChampionshipsScheduleAC.pdf">schedule</a> for the following events are now available.</p>
+                                                <ul>
+                                                    <li>AC Gold Medal (11-13 March 2015)</li>
+                                                    <li>AC Men's & Women's Open Singles (14-17 March 2015)</li>
+                                                    <li>AC Eire Cup (18-22 March 2015)</li>
+                                                </ul>
+                                            </div>
+                                        </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td bgcolor="#cef8ce" class="pstyle">
+                                            <p>
+                                                [12 Jan] <a href="/Events/2015/presidents-gc-eights/presidents-gc-eights-players-as-at-12-january-2015.pdf">Players Listing</a> President GC Eights.
+                                            </p>
+                                        </td>
+                                    </tr>
+
                                     <tr>
                                         <td height="290" align="left" valign="top" bgcolor="#FFFFBB" class="pstyle">
-                                            <p>[29 Oct] The ACA is seeking expressions of interest for players to compete in the <strong>WCF Women&rsquo;s AC WC</strong> being held at the Nottingham Croquet Club in England from Saturday 25   July to Saturday 1 August, 2015.  Please note the WCF has introduced new   procedures for entry to this event. The WCF has provided a <a href="http://www.croquet-australia.com.au/Events/2015/Summary%20Appendices%201%20and%202%20WCF%20Sports%20Regs.pdf" target="_blank">summary</a> but the details are included in Appendices 1 and 2 of the WCF Sports Regulations.  </p>
+                                            <p>
+                                                [29 Oct] The ACA is seeking expressions of interest for players to compete in the <strong>WCF Women&rsquo;s AC WC</strong> being held at the Nottingham Croquet Club in England from Saturday 25 July to Saturday 1 August, 2015. Please note the WCF has introduced new procedures for entry to this event. The WCF has provided a <a href="http://www.croquet-australia.com.au/Events/2015/Summary%20Appendices%201%20and%202%20WCF%20Sports%20Regs.pdf" target="_blank">summary</a> but the details are included in Appendices 1 and 2 of the WCF Sports Regulations.
+                                            </p>
                                             <ol>
                                                 <li>Expressions of Interest to be forwarded to Stephen Richards, Chair, AC Selection Committee by Monday 10 November, 2014</li>
-                                                <li>Those   players considered eligible for a wild card will be contacted before   Friday 14 November, 2014 and asked to write a rationale as to why they   should be considered for a place by the WCF.</li>
+                                                <li>Those players considered eligible for a wild card will be contacted before Friday 14 November, 2014 and asked to write a rationale as to why they should be considered for a place by the WCF.</li>
                                                 <li>The ACA is required to submit names by Sunday 23 November, 2014.</li>
                                                 <li>Players will be advised if they have been allocated a place after Sunday 21 December, 2014.</li>
-                                                <li>Final confirmation of players to the WCF by Sunday 25 January, 2015. </li>
+                                                <li>Final confirmation of players to the WCF by Sunday 25 January, 2015. </li>
                                             </ol>
-                                            <p>Please note – </p>
+                                            <p>Please note – </p>
                                             <ol>
-                                                <li>Ranking   places are determined by the WCF based on the highest &lsquo;dgrade&rsquo; for the   previous twelve months these can be accessed on the WCF&rsquo;s ranking list.</li>
-                                                <li>The   ACA has undertaken a review of the contributions made to players who   receive a place in a WCF WC and will take effect from 1 January, 2015.  A   document outlining these changes will be distributed by Tuesday 4   November, 2014.</li>
+                                                <li>Ranking places are determined by the WCF based on the highest &lsquo;dgrade&rsquo; for the previous twelve months these can be accessed on the WCF&rsquo;s ranking list.</li>
+                                                <li>The ACA has undertaken a review of the contributions made to players who receive a place in a WCF WC and will take effect from 1 January, 2015. A document outlining these changes will be distributed by Tuesday 4 November, 2014.</li>
                                             </ol>
                                         </td>
                                     </tr>
+
                                     <tr>
-                                        <td align="left" valign="top" bgcolor="#66CC66" class="pstyle">
-                                            <p>[29   Oct]  The ACA Executive Committee is asking players to apply for   Appointed Officer positions.  There are a variety of roles requiring   differing levels of experience, leadership and passion.    Responsibilities are listed in By-Law 28 of the Handbook.</p>
+                                        <td align="left" valign="top" bgcolor="#cef8ce" class="pstyle">
+                                            <p>[29 Oct] The ACA Executive Committee is asking players to apply for Appointed Officer positions. There are a variety of roles requiring differing levels of experience, leadership and passion. Responsibilities are listed in By-Law 28 of the Handbook.</p>
 
-                                            <p>Over the past few months the Executive has been reviewing the process by   which Appointed Officers are endorsed and the timing of such   appointments.  </p>
+                                            <p>Over the past few months the Executive has been reviewing the process by which Appointed Officers are endorsed and the timing of such appointments. </p>
 
-                                            <p>Council agreed at its September meeting in Adelaide that Officers will commence   their duties from the beginning of a calendar year rather than sometime   after an AGM.</p>
+                                            <p>Council agreed at its September meeting in Adelaide that Officers will commence their duties from the beginning of a calendar year rather than sometime after an AGM.</p>
 
-                                            <p>There are several advantages in asking for expressions of interest in October   and having appointments made by the end of November as this will give   the successful appointee the opportunity to prepare a program in   consultation with the Executive and discuss any financial implications   with the Treasurer prior to the adoption of the ACA's annual budget</p>
+                                            <p>There are several advantages in asking for expressions of interest in October and having appointments made by the end of November as this will give the successful appointee the opportunity to prepare a program in consultation with the Executive and discuss any financial implications with the Treasurer prior to the adoption of the ACA's annual budget</p>
 
                                             <p>It should be noted that all positions fall vacant each December.</p>
 
-                                            <p>The Executive would like to receive expressions of interest on or before   Monday 10 November, 2014.  Please complete the attached form and send to<a href="mailto:secretary@croquet-australia.com.au">secretary@croquet-australia.com.au</a></p>
+                                            <p>
+                                                The Executive would like to receive expressions of interest on or before Monday 10 November, 2014. Please complete the attached form and send to<a href="mailto:secretary@croquet-australia.com.au">secretary@croquet-australia.com.au</a>
+                                            </p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td align="left" valign="top" bgcolor="#FFFFBB" class="pstyle">
-                                            <p>[12 Oct]  <strong>The   ACA Office has moved! </strong> Our landlord is still ACT Sport but instead of   being based in a converted primary school in the northern suburbs of   Canberra we are now residents of the new Brumbies' (Canberra's Rugby   Union Team) headquarters at the University of Canberra.  Several   research institutions are housed in these facilities as well as local   sporting groups and the University's gym. </p>
+                                            <p>
+                                                [12 Oct] <strong>The ACA Office has moved! </strong> Our landlord is still ACT Sport but instead of being based in a converted primary school in the northern suburbs of Canberra we are now residents of the new Brumbies' (Canberra's Rugby Union Team) headquarters at the University of Canberra. Several research institutions are housed in these facilities as well as local sporting groups and the University's gym.
+                                            </p>
                                             <p>
                                                 <strong>Physical address:</strong><br />
                                                 <a href="http://www.canberra.edu.au/maps/buildings-directory/building-29" target="_blank">Building 29</a><br />
@@ -152,52 +230,58 @@
                                                 PO BOX 254<br />
                                                 DICKSON ACT 2602
                                             </p>
-                                            <p><strong>New Phone number</strong> is 0457 678 380</p>
+                                            <p>
+                                                <strong>New Phone number</strong> is 0457 678 380
+                                            </p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td align="left" valign="top" bgcolor="#66CC66" class="pstyle">&nbsp;</td>
+                                        <td align="left" valign="top" bgcolor="#cef8ce" class="pstyle">&nbsp;</td>
                                     </tr>
                                     <tr>
                                         <td align="left" valign="top" bgcolor="#FFFFBB" class="pstyle">
-                                            [11 Oct] <strong>Expressions of interest are now being sought for the GC President's Eights</strong> being held at Cairnlea from Friday 23rd to Sunday 25th January,   2015.  If you wish to participate in this tournament please indicate   your interest by emailing ACA's National Director of Golf Croquet,
+                                            [11 Oct] <strong>Expressions of interest are now being sought for the GC President's Eights</strong> being held at Cairnlea from Friday 23rd to Sunday 25th January, 2015. If you wish to participate in this tournament please indicate your interest by emailing ACA's National Director of Golf Croquet,
                                             <script type="text/javascript">
                                                 <!--
                                                 var contact1 = "Anne Quinn";
                                                 var email1 = "ndgc";
                                                 var emailHost = "croquet-australia.com.au";
-                                                document.write("<a href=" + "mail" + "to:" + email1 + "@" + emailHost+ ">" + contact1 + "</a>");
+                                                document.write("<a href=" + "mail" + "to:" + email1 + "@" + emailHost + ">" + contact1 + "</a>");
                                                 //-->
                                             </script>
-                                            on   or before Friday 7 November 2014.  Those chosen will be notified as   soon as possible after the selection process has been completed.  A   non-response by the due date will be considered as 'not able to play'.
+                                            on or before Friday 7 November 2014. Those chosen will be notified as soon as possible after the selection process has been completed. A non-response by the due date will be considered as 'not able to play'.
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td align="left" valign="top" bgcolor="#66CC66" class="pstyle">[8 Oct] Five Australians, Terry Ericson, David Wise, Steve Thornton, Graham   Wemyss and Bob Godfrey are all engaged in gruelling battles as they   compete in the WCF Over 50&rsquo;s GC WC currently being held in Cairo.    Wishing them all every success as they continue in the competition  -   follow their progress on Croquet Scores.</td>
+                                        <td align="left" valign="top" bgcolor="#cef8ce" class="pstyle">[8 Oct] Five Australians, Terry Ericson, David Wise, Steve Thornton, Graham Wemyss and Bob Godfrey are all engaged in gruelling battles as they compete in the WCF Over 50&rsquo;s GC WC currently being held in Cairo. Wishing them all every success as they continue in the competition - follow their progress on Croquet Scores.</td>
                                     </tr>
                                     <tr>
                                         <td align="left" valign="top" bgcolor="#FFFFBB" class="pstyle">
                                             [8 Oct]
-                                            At the Council Meeting held in September, the <a href="Governance/Documents/Strategic Plan/ACA Strategic Plan - September 2014 - Decenber 2018.pdf" target="_blank">ACA’s Strategic Plan</a> was adopted.  The plan was a collaboration between the Executive and the six State Associations.  It gives a cohesive direction for the Association over the next four years.
+                                            At the Council Meeting held in September, the <a href="Governance/Documents/Strategic Plan/ACA Strategic Plan - September 2014 - Decenber 2018.pdf" target="_blank">ACA’s Strategic Plan</a> was adopted. The plan was a collaboration between the Executive and the six State Associations. It gives a cohesive direction for the Association over the next four years.
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td align="left" valign="top" bgcolor="#66CC66" class="pstyle"><p>[29  Sep]&nbsp; <strong>The Officials for the President&rsquo;s AC Eights</strong> are Tournament Manager,  Brian Reither and Tournament Referee, Brian Foley.&nbsp; The <u><a href="Events/2014/Pres AC 8s/Prsident's AC  Eights Blocks.pdf">Blocks</a></u> have been finalised.</p></td>
+                                        <td align="left" valign="top" bgcolor="#cef8ce" class="pstyle">
+                                            <p>
+                                                [29 Sep]&nbsp; <strong>The Officials for the President&rsquo;s AC Eights</strong> are Tournament Manager, Brian Reither and Tournament Referee, Brian Foley.&nbsp; The <u><a href="Events/2014/Pres AC 8s/Prsident's AC  Eights Blocks.pdf">Blocks</a></u> have been finalised.
+                                            </p>
+                                        </td>
                                     </tr>
                                     <tr>
-                                        <td align="left" valign="top" bgcolor="#FFFFBB" class="pstyle">[15 Sep] Three Australian teams (Canberra, Tamborine Mountain, Southport) along   with 600 competitors from around the world will shortly be <strong>travelling</strong> <strong>to   Niigata, Japan for the World Gateball Championship, 26-28 September. </strong>See latest details at <a href="http://www.gateball.com.au">www.gateball.com.au</a></td>
+                                        <td align="left" valign="top" bgcolor="#FFFFBB" class="pstyle">[15 Sep] Three Australian teams (Canberra, Tamborine Mountain, Southport) along with 600 competitors from around the world will shortly be <strong>travelling</strong> <strong>to Niigata, Japan for the World Gateball Championship, 26-28 September. </strong>See latest details at <a href="http://www.gateball.com.au">www.gateball.com.au</a></td>
                                     </tr>
                                     <tr>
-                                        <td align="left" valign="top" bgcolor="#66CC66" class="pstyle">
+                                        <td align="left" valign="top" bgcolor="#cef8ce" class="pstyle">
                                             [3 Sep]<strong> STOP PRESS</strong> The AC Selection Committee is asking those players who have not yet expressed an interest in playing in the<strong> 2014 President's AC Eights</strong> and who would like the opportunity should send an email to the Chair of AC Selection Committee,
                                             <script type="text/javascript">
                                                 <!--
                                                 var contact1 = "Stephen Richards";
                                                 var email1 = "acselectors";
                                                 var emailHost = "croquet-australia.com.au";
-                                                document.write("<a href=" + "mail" + "to:" + email1 + "@" + emailHost+ ">" + contact1 + "</a>");
+                                                document.write("<a href=" + "mail" + "to:" + email1 + "@" + emailHost + ">" + contact1 + "</a>");
                                                 //-->
-                                            </script>.  Initially your name will be added to the reserve list and if a place becomes available you will be notified straight away.
+                                            </script>. Initially your name will be added to the reserve list and if a place becomes available you will be notified straight away.
                                         </td>
                                     </tr>
                                 </table>
@@ -207,7 +291,7 @@
                             </td>
 
                             <!-- Results Column -->
-                            <td width="39%" align="left" valign="top" bordercolor="#660066" class="style8">
+                            <td width="39%" align="left" valign="top" class="results-column style8">
                                 <h2>Results:</h2>
                                 <div>
                                     <p>
