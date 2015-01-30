@@ -21,6 +21,14 @@
     margin-bottom: 0;
 }
 
+.tournament-results h1 {
+    font-size: large;    
+}
+
+.tournament-results h2 {
+    font-size: medium;    
+}
+
 table .news-table,
 .results-column {
     border: 1px solid gainsboro;

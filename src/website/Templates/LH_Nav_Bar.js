@@ -78,7 +78,7 @@ document.write("     </a><ul><li>");
 document.write("       <a href='/Results/'></a><a href='/Results/History/Nationals_History.html'>Australian Title Holders</a></li>");
 document.write("     </ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->");
 document.write("  </li>");
-document.write("  <li><a href='/Events/Tournament Program 2014 and 2015 as at 070714.pdf'>Tournament Program</a></li>");
+document.write("  <li><a href='/Events/current-tournament-program.pdf'>Tournament Program</a></li>");
 document.write("  <li><a href='/Where_To_Play_Croquet/'>Where to Play</a></li>");
 document.write("  <li><a href='/WebResources/'>Web Resources</a></li>");
 document.write("</ul>");
