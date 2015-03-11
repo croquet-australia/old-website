@@ -12,25 +12,19 @@ document.write("    </div>");
 document.write("  </td>");
 
 
-document.write("<script>");
-document.write("  (function() {");
-document.write("   var cx = '011904477554083402171:plllpqlzbjm';");
-document.write("    var gcse = document.createElement('script');");
-document.write("   gcse.type = 'text/javascript';");
-document.write("    gcse.async = true;");
-document.write("   gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +");
-document.write("        '//www.google.com/cse/cse.js?cx=' + cx;");
-document.write("    var s = document.getElementsByTagName('script')[0];");
-document.write("    s.parentNode.insertBefore(gcse, s);") 
-document.write(" })();");
-document.write("</script>");
-document.write("<gcse:search></gcse:search>");
-
-
-
-
-
-
+//document.write("<script>");
+//document.write("  (function() {");
+//document.write("   var cx = '011904477554083402171:plllpqlzbjm';");
+//document.write("    var gcse = document.createElement('script');");
+//document.write("   gcse.type = 'text/javascript';");
+//document.write("    gcse.async = true;");
+//document.write("   gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +");
+//document.write("        '//www.google.com/cse/cse.js?cx=' + cx;");
+//document.write("    var s = document.getElementsByTagName('script')[0];");
+//document.write("    s.parentNode.insertBefore(gcse, s);") 
+//document.write(" })();");
+//document.write("</script>");
+//document.write("<gcse:search></gcse:search>");
 
 document.write("  <td width='26' valign='top' class='small-italic'>&nbsp;</td>");
 document.write("  <td width='567' valign='top' class='small-italic'> &nbsp;Email ");
